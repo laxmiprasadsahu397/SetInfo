@@ -1,15 +1,15 @@
 # Task in iOS 1
-Required Language : Swift
+
 Description:
 Create a simple view with objects of your choice.
 The objects should be collection of items, display using CollectionView.
 The CollectionView should be horizontally scrollable.
+
 Functionalities on the cell
 <Swipe up> on the cell to delete the cell 
 <Long press> on the cell for more options (such as: edit the content selected)
 
 # Task in iOS 2
-Required Language : Swift
 
 Task : PLOT THE RECTANGLE
 
@@ -21,7 +21,6 @@ Refer the attached video for a quick demo on the task.
 
 
 # Task in iOS 3
-Required Language : Swift
 
 Task : Color the Clown
 
